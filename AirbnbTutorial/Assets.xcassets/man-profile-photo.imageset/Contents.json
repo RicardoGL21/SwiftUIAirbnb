@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "51507861-hombre-joven-atractivo-que-toma-una-autofoto-en-la-playa-mientras-se-usan-tonos-y-un-sombrero-blanco.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
